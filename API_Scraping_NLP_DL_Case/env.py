@@ -1,0 +1,2 @@
+URL = "https://www.google.com/maps/place/Kennedy's+Irish+Pub/@47.377294,8.533211,17z/data=!3m1!4b1!4m6!3m5!1s0x47900a0f8b0cd0bd:0xc2f5e24de625582d!8m2!3d47.377294!4d8.533211!16s%2Fg%2F11_ssc7ct"
+DriverLocation = "./Driver/chromedriver.exe"
